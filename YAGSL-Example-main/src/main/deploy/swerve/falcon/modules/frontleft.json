@@ -4,7 +4,6 @@
     "y": 275
   },
   "absoluteEncoderOffset": 0,
-  //needs to be changed
   "drive": {
     "type": "falcon",
     "id": 5,
